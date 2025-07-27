@@ -1,0 +1,6 @@
+{
+  "name": "DEP SAC & Test Lookup",
+  "description": "An application to help users navigate Pennsylvania DEP BOL water and soil quality testing packages (SACs). Users can find tests within an SAC, find SACs containing specific tests, or get an AI-powered recommendation for their testing needs.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
