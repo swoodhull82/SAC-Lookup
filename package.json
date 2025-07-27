@@ -1,6 +1,7 @@
 {
   "name": "SAC-Lookup",
   "private": true,
+  "homepage": "https://swoodhull82.github.io/SAC-Lookup"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
